@@ -6,6 +6,5 @@ sudo pvs
 sudo vgs
 sudo lvs
 timedatectl
-ifconfig -a
 lsblk
 echo "--------end----------"
