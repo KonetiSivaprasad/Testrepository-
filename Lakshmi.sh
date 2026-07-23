@@ -7,4 +7,5 @@ sudo vgs
 sudo lvs
 timedatectl
 lsblk
+ifconfig -a
 echo "--------end----------"
